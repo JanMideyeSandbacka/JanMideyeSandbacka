@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JanMideyeSandbacka aka JanMrAuthenticationSandbacka
 - 👀 I’m interested in authentication and IAM
-- 🌱 I’m currently learning Haschicorp Boundary
-- 💞️ I’m looking to collaborate on Haschicorp Boundary
+- 🌱 I’m currently learning Hashicorp Boundary
+- 💞️ I’m looking to collaborate on Hashicorp Boundary
 - 📫 How to reach me jan.sandbacka@mideye.com
 
 <!---
